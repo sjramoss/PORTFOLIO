@@ -55,9 +55,9 @@ and is wrapped around the whole page content, except for the footer in this exam
  
          <div class="w3-justify">
            <img src="/w3images/girl_hat.jpg" alt="Design Process" style="width:100%" class="w3-padding-16">+          <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
-           <p>Sunt in culpa qui officia My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
+           <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
-           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
+           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies  </b> <span class="w3-tag w3-white">0</span></button></p>
            <p class="w3-clear"></p>
            <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
              <hr>
@@ -81,7 +81,7 @@ and is wrapped around the whole page content, except for the footer in this exam
           <p><strong>Are you connected?</strong> Who could use Foodbank!</p>
            <p>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
-           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
+           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">0</span></button></p>
            <p class="w3-clear"></p>
           
            <!-- Example of comment field -->
@@ -91,17 +91,14 @@ and is wrapped around the whole page content, except for the footer in this exam
                <div class="w3-col l2 m3">
                  <img src="/w3images/girl_train.jpg" style="width:90px;">
                </div>
-              <div class="w3-col l10 m9">
-                 <h4>Amber <span class="w3-opacity w3-medium">AUG 31, 2017</span></h4>
-                 <p>Write comment here....</p><br>
-               </div>
+  
              </div>
             <div class="w3-row w3-margin-bottom">
                <div class="w3-col l2 m3">
                  <img src="/w3images/girl.jpg" style="width:90px;">
                </div>
                <div class="w3-col l10 m9">
-                <h4>Angie <span class="w3-opacity w3-medium">AUG 30, 2017</span></h4>
+                <h4>Lindy <span class="w3-opacity w3-medium">AUG 30, 2017</span></h4>
                  <p>Foodbank Loves You!!</p>
                </div>
              </div>
@@ -117,7 +114,7 @@ and is wrapped around the whole page content, except for the footer in this exam
          </div>
  
          <div class="w3-justify">
-           <img src="/w3images/runway.jpg" alt="Runway" style="width:100%" class="w3-padding-16">
+           <img src="/w3images/runway.jpg" alt="ABOUT" style="width:100%" class="w3-padding-16">
            <p><strong>RESUMÉ</strong> I CREATE MY PATH</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Link</b></button></p>
            <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
