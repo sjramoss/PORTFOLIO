@@ -54,7 +54,7 @@ and is wrapped around the whole page content, except for the footer in this exam
          </div>
  
          <div class="w3-justify">
-           <img src="/w3images/girl_hat.jpg" alt="Girl Hat" style="width:100%" class="w3-padding-16">+          <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
+           <img src="/w3images/girl_hat.jpg" alt="Design Process" style="width:100%" class="w3-padding-16">+          <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
            <p>Sunt in culpa qui officia My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
            <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
@@ -73,12 +73,12 @@ and is wrapped around the whole page content, except for the footer in this exam
       <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>PERSONAS</h3>
-           <h5>Title description, <span class="w3-opacity">April 23, 2016</span></h5>
+           <h5>Users in Our Community <span class="w3-opacity">AUG 15, 2017</span></h5>
          </div>
  
          <div class="w3-justify">
            <img src="/w3images/man_hat.jpg" alt="Users" style="width:100%" class="w3-padding-16">
-          <p><strong>Hats!</strong> Who could use Foodbank!</p>
+          <p><strong>Are you connected?</strong> Who could use Foodbank!</p>
            <p>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
            <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
@@ -113,7 +113,7 @@ and is wrapped around the whole page content, except for the footer in this exam
        <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>workingxxxx</h3>
-           <h5>Title description, <span class="w3-opacity">SEPT 1, 2017</span></h5>
+           <h5>working, <span class="w3-opacity">SEPT 1, 2017</span></h5>
          </div>
  
          <div class="w3-justify">
@@ -123,27 +123,6 @@ and is wrapped around the whole page content, except for the footer in this exam
            <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
            <p class="w3-clear"></p>
            
-           <!-- Example of comment field -->
-           <div id="demo3" style="display:none">
-             <hr>
-             <div class="w3-row w3-margin-bottom">
-               <div class="w3-col l2 m3">
-                 <img src="/w3images/girl_mountain.jpg" style="width:90px;">
-               </div>
-              <div class="w3-col l10 m9">
-               <h4>Jane <span class="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
-                 <p>That was a great runway show! Thanks for everything.</p>
-              </div>
-            </div>
-             <div class="w3-row w3-margin-bottom">
-             <div class="w3-col l2 m3">
-                 <img src="/w3images/boy.jpg" style="width:90px;">
-               </div>
-               <div class="w3-col l10 m9">
-                 <h4>John <span class="w3-opacity w3-medium">April 8, 2015, 10:32 PM</span></h4>
-                 <p>Keep up the GREAT work! I am cheering for you!! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-               </div>
-             </div>
   
      <!-- END BLOG ENTRIES -->
      </div>
@@ -153,7 +132,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     <div class="w3-col l4">
        <!-- About Card -->
        <div class="w3-white w3-margin">
-         <img src="/w3images/avatar_girl2.jpg" alt="Jane" style="width:100%" class="w3-grayscale">
+         <img src="/w3images/avatar_girl2.jpg" alt="WEB DESIGN PORTFOLIO" style="width:100%" class="w3-grayscale">
          <div class="w3-container w3-black">
           <h4>STEPHANIE RAMOS</h4>
            <p> A Palm Springs, CA native living in Paradise; more known as San Diego City! Currently a Senior standing student at UCSD (University of California, San Diego). </p>
@@ -175,19 +154,19 @@ and is wrapped around the whole page content, except for the footer in this exam
            </li>
            <li class="w3-padding-16">
              <img src="/w3images/bandmember.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-             <span class="w3-large">Sweaters</span>
+             <span class="w3-large">Ableton Live 9 & 8</span>
              <br>
              <span>working xxxx</span>
            </li>
            <li class="w3-padding-16">
              <img src="/w3images/workshop.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-             <span class="w3-large">Workshop</span>
+             <span class="w3-large">COGS 102C</span>
              <br>
-            <span>Ultricies congue</span>
+            <span>wokring xxxx</span>
           </li>
            <li class="w3-padding-16">
              <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right w3-sepia" style="width:50px">
-             <span class="w3-large">Trends</span>
+             <span class="w3-large">working xxxxx</span>
              <br>
             <span>working xxxx</span>
            </li>
