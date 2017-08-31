@@ -111,7 +111,7 @@ and is wrapped around the whole page content, except for the footer in this exam
          <div class="w3-justify">
            <img src="/w3images/ABOUT.jpg" alt="ABOUT" style="width:100%" class="w3-padding-16">
            <p><strong>RESUMÉ</strong> | Emergence</p>
-           <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="!"></i> Link</b></button></p>
+           <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><a href="PORTFOLIO/RESUME AUG 2017.pages"><b><i class="!"></i> Link</b></a></button></p>
           
   
      <!-- END BLOG ENTRIES -->
