@@ -32,11 +32,11 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Image header -->
   <header class="w3-display-container w3-wide" id="home">
-    <img class="w3-image" src="/w3images/jane.jpg" alt="Fashion Blog" width="1600" height="1060">
+    <img class="w3-image" src="/w3images/jane.jpg" alt="WEB DESIGN" width="1600" height="1060">
     <div class="w3-display-left w3-padding-large">
       <h1 class="w3-text-white">Stephanie's</h1>
       <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>WEB DESIGN PORTFOLIO</b></h1>
-      <h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6>
+      <h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">CONTACT</button></h6>
     </div>
   </header>
 
@@ -55,7 +55,7 @@ and is wrapped around the whole page content, except for the footer in this exam
  
          <div class="w3-justify">
            <img src="/w3images/girl_hat.jpg" alt="Design Process" style="width:100%" class="w3-padding-16">+          <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
-           <p>Sunt in culpa qui officia My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
+           <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
            <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
            <p class="w3-clear"></p>
@@ -117,7 +117,7 @@ and is wrapped around the whole page content, except for the footer in this exam
          </div>
  
          <div class="w3-justify">
-           <img src="/w3images/runway.jpg" alt="Runway" style="width:100%" class="w3-padding-16">
+           <img src="/w3images/runway.jpg" alt="My journey" style="width:100%" class="w3-padding-16">
            <p><strong>RESUMÉ</strong> I CREATE</p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
            <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
