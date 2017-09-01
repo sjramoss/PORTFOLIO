@@ -16,11 +16,13 @@ body {font-family: "Open Sans"}
   
   <article>
   <header>
+  <center>
     <h1>STEPHANIE RAMOS</h1>
     <div style="color:#46A1CC">
-    <h3>Web Design Portfolio</h3> 
+    <h3>User Researcher Portfolio</h3>
     </div>
     <p>September 2017</p>
+    </center>
   </header>
 </article>
   
