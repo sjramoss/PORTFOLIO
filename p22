@@ -1,5 +1,4 @@
 <html>
-<title>Portfolio.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -10,9 +9,8 @@
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 body {font-family: "Open Sans"}
 </style>
-<body class="w3-light-grey">
 
-<div class="w3-content" style="max-width:1600px">
+<div class="w3-content" style="max-width:1400px">
   
   <article>
   <header>
@@ -44,12 +42,12 @@ body {font-family: "Open Sans"}
          <div class="w3-center">
            <h3>FOODBANK</h3>
            <h5>Sign-Up Pages for App/Website <span class="w3-opacity">AUG 30, 2017</span></h5>
-<img src="logo.png" alt="Foodbank Logo" height="280" width="320">
+<img src="logo.png" alt="Foodbank Logo" height="260" width="320">
  <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
            <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
   </div>
   <div style="color:#A6CBFF">
-  <p>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</p>
+  <p><center>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</center></p>
            <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
              <hr>
                
