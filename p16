@@ -28,7 +28,6 @@ body {font-family: "Open Sans"}
   </header>
 </article>
   
- <!-header -->
   <header class="w3-display-container w3-wide" id="home">
     <img class="w3-image" src="_O5A9155.jpg" alt="WEB DESIGN" width="1600" height="1060">
     <div class="w3-display-left w3-padding-large">
@@ -39,14 +38,13 @@ body {font-family: "Open Sans"}
   </header>
 
   <div class="w3-row w3-padding w3-border">
- 
     <div class="w3-col l8 s12">
     
        <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>FOODBANK</h3>
            <h5>Sign-Up Pages for App/Website <span class="w3-opacity">AUG 30, 2017</span></h5>
-<img src="logo.png" alt="Foodbank Logo" height="42" width="90">
+<img src="logo.png" alt="Foodbank Logo" height="100" width="120">
  <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
            <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
   </div>
@@ -80,8 +78,6 @@ body {font-family: "Open Sans"}
            <img src="/w3images/ABOUT.jpg" alt="ABOUT" style="width:100%" class="w3-padding-16">
            <p><strong>RESUMÉ</strong></p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="link"><a href="PORTFOLIO/RESUME AUG 2017.pages"><button>Link</button></a></button></p>
-          
-
      </div>
      
     <div class="w3-col l4">
@@ -94,14 +90,20 @@ body {font-family: "Open Sans"}
          </div>
        </div>
        <hr>
-       
- <div style="color:#FFDA66">
+  
+  
+  <article>
+  <header>
+  <div style="color:#FFDA66">
   <html>
   <head>
 <h4>RESUMÉ</h4>
   </head>
   <body
          </div>
+  </header>
+</article>
+ 
            <li class="w3-padding-16">
              <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
              <span class="w3-large">Cogs 187A</span>
