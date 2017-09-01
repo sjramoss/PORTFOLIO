@@ -61,7 +61,7 @@ body {font-family: "Open Sans"}
          <div style="color:#46A1CC">
            <h3>PROJECTS</h3>
            </div>
-           <h5>An array of projects I have created while at UCSD as well as events I have partaken in while djing show in San Diego. <span class="w3-opacity">AUG 15, 2017</span></h5>
+           <h5>An array of projects I have participated in<span class="w3-opacity">AUG 15, 2017</span></h5>
          </div>
            
      
@@ -78,7 +78,8 @@ body {font-family: "Open Sans"}
      </div>
      
     <div class="w3-col l4">
-       <!-- About Card -->
+       
+       
        <div class="w3-white w3-margin">
          <img src="/w3images/avatar_girl2.jpg" alt="WEB DESIGN PORTFOLIO" style="width:100%" class="w3-grayscale">
          <div class="w3-container w3-black">
