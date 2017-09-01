@@ -12,7 +12,7 @@ body {font-family: "Open Sans"}
 </style>
 <body class="w3-light-grey">
 
-<!-- TOP Navigation bar  social media icons -->
+
 <div class="w3-bar w3-black w3-hide-small">
   <a href="#" class="w3-bar-item w3-button"><i class="https://www.linkedin.com/in/stephanie-ramos-920355a6/"></i></a>
 </div>
@@ -20,14 +20,16 @@ body {font-family: "Open Sans"}
 <!-- w3-content defines a container for fixed size centered content, 
 and is wrapped around the whole page content, except for the footer -->
 <div class="w3-content" style="max-width:1600px">
-
-  <!-- Header -->
-  <header class="w3-container w3-center w3-padding-48 w3-white">
-    <h1 class="w3-xxxlarge"><b>STEPHANIE RAMOS</b></h1>
-    <h6>Web Design Portfolio <span class="w3-tag">Stephanie</span></h6>
-  </header>
   
- <!-- Image header -->
+  <article>
+  <header>
+    <h1>STEPHANIE RAMOS</h1>
+    <h3>Web Design Portfolio</h3>
+    <p>September 2017</p>
+  </header>
+</article>
+  
+ <!-header -->
   <header class="w3-display-container w3-wide" id="home">
     <img class="w3-image" src="_O5A9155.jpg" alt="WEB DESIGN" width="1600" height="1060">
     <div class="w3-display-left w3-padding-large">
@@ -37,13 +39,13 @@ and is wrapped around the whole page content, except for the footer -->
     </div>
   </header>
 
-  <!-- Grid -->
+  <--GRID->
   <div class="w3-row w3-padding w3-border">
 
-    <!-- ABOUT -->
+ 
     <div class="w3-col l8 s12">
     
-      <!-- CONTRIBUTIONS -->
+   <--contributions->
        <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>FOODBANK</h3>
@@ -64,7 +66,6 @@ and is wrapped around the whole page content, except for the footer -->
        </div>
        <hr>
 
-      <!-- Blog entry -->
       <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>PROJECTS</h3>
@@ -76,7 +77,7 @@ and is wrapped around the whole page content, except for the footer -->
           <p><strong>HOUSE OF BLUES</strong> </p>
            <p>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</p>
            
-       <!-- Blog entry -->
+     
        <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>workingxxxx</h3>
@@ -88,12 +89,9 @@ and is wrapped around the whole page content, except for the footer -->
            <p><strong>RESUMÉ</strong></p>
            <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="link"><a href="PORTFOLIO/RESUME AUG 2017.pages"><button>Link</button></a></button></p>
           
-  
-     <!-- END BLOG ENTRIES -->
+
      </div>
      
-
-   <!-- About/Information menu -->
     <div class="w3-col l4">
        <!-- About Card -->
        <div class="w3-white w3-margin">
@@ -104,11 +102,13 @@ and is wrapped around the whole page content, except for the footer -->
          </div>
        </div>
        <hr>
- 
-       <!-- Posts -->
-       <div class="w3-white w3-margin">
-        <div class="w3-container w3-padding w3-black">
-           <h4>RESUMÉ</h4>
+       
+ <div style="color:#FFDA66">
+  <html>
+  <head>
+<h4>RESUMÉ</h4>
+  </head>
+  <body
          </div>
            <li class="w3-padding-16">
              <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
@@ -138,14 +138,13 @@ and is wrapped around the whole page content, except for the footer -->
        </div>
        <hr>
        
-        <!-- contact -->
-       <div class="w3-white w3-margin">
-         <div class="w3-container w3-padding w3-black">
-           <h4>CONTACT</h4>
-         </div>
-        <div class="w3-container w3-white">
-           <div class="w3-container w3-display-container w3-light-grey w3-section" style="height:200px">
-             <span class="w3-display-middle">EMAIL: sjramos@ucsd.edu<p> PHONE: (760) 859-5339 </p>
+  <div style="color:#FFDA66">
+  <html>
+  <head>
+    CONTACT
+  </head>
+  <body>
+       <p> EMAIL: sjramos@ucsd.edu<p> PHONE: (760) 859-5339 </p>
            </span>
            </div>
         </div>
@@ -153,9 +152,16 @@ and is wrapped around the whole page content, except for the footer -->
        <hr>
 
 <div style="color:#FFDA66">
-  <h3>Follow Me</h3>
-  <div class="w3-container w3-padding w3-black">
-           <h4>Follow Me</h4>
+  <html>
+  <head>
+    Follow Me
+  </head>
+  <body>
+    <div id="container">
+     https://www.linkedin.com/in/stephanie-ramos-920355a6
+    </div>
+  </body>
+</html>
 </div>
      
        </div>
