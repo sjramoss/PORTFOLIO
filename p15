@@ -17,8 +17,7 @@ body {font-family: "Open Sans"}
   <a href="#" class="w3-bar-item w3-button"><i class="https://www.linkedin.com/in/stephanie-ramos-920355a6/"></i></a>
 </div>
   
-<!-- w3-content defines a container for fixed size centered content, 
-and is wrapped around the whole page content, except for the footer -->
+
 <div class="w3-content" style="max-width:1600px">
   
   <article>
@@ -39,28 +38,21 @@ and is wrapped around the whole page content, except for the footer -->
     </div>
   </header>
 
-  <--GRID->
   <div class="w3-row w3-padding w3-border">
-
  
     <div class="w3-col l8 s12">
     
-   <--contributions->
        <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
            <h3>FOODBANK</h3>
            <h5>Sign-Up Pages for App/Website <span class="w3-opacity">AUG 30, 2017</span></h5>
-         </div>
- 
-         <div class="w3-justify">
-           <img src="/w3images/girl_hat.jpg" alt="Design Process" style="width:100%" class="w3-padding-16">+          <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
+<img src="logo.png" alt="Foodbank Logo" height="42" width="90">
+ <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
            <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
-
+  </div>
            <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
              <hr>
-               <div class="w3-col l2 m3">
-               <img src="logo.png" style="width:90px;">
-              </div>
+               
            </div>
          </div>
        </div>
