@@ -23,7 +23,9 @@ body {font-family: "Open Sans"}
   <article>
   <header>
     <h1>STEPHANIE RAMOS</h1>
-    <h3>Web Design Portfolio</h3>
+    <div style="color:#46A1CC">
+    <h3>Web Design Portfolio</h3> 
+    </div>
     <p>September 2017</p>
   </header>
 </article>
@@ -44,10 +46,12 @@ body {font-family: "Open Sans"}
          <div class="w3-center">
            <h3>FOODBANK</h3>
            <h5>Sign-Up Pages for App/Website <span class="w3-opacity">AUG 30, 2017</span></h5>
-<img src="logo.png" alt="Foodbank Logo" height="100" width="120">
+<img src="logo.png" alt="Foodbank Logo" height="280" width="320">
  <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
            <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
   </div>
+  <div style="color:#A6CBFF">
+  <p>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</p>
            <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
              <hr>
                
@@ -58,14 +62,11 @@ body {font-family: "Open Sans"}
 
       <div class="w3-container w3-white w3-margin w3-padding-large">
          <div class="w3-center">
+         <div style="color:#46A1CC">
            <h3>PROJECTS</h3>
+           </div>
            <h5>An array of projects I have created while at UCSD as well as events I have partaken in while djing show in San Diego. <span class="w3-opacity">AUG 15, 2017</span></h5>
          </div>
- 
-         <div class="w3-justify">
-           <img src="/w3images/man_hat.jpg" alt="Users" style="width:100%" class="w3-padding-16">
-          <p><strong>HOUSE OF BLUES</strong> </p>
-           <p>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</p>
            
      
        <div class="w3-container w3-white w3-margin w3-padding-large">
