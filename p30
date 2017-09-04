@@ -1,0 +1,156 @@
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+</style>
+
+<div class="w3-content" style="max-width:1400px">
+  
+  <article>
+  <header>
+  <center>
+    <h1>STEPHANIE RAMOS</h1>
+    <div style="color:#46A1CC">
+    <h3>User Researcher Portfolio</h3>
+    </div>
+    <p>September 2017</p>
+    </center>
+  </header>
+</article>
+  
+
+<div id="header">
+    <a href="/"><img src="_O5A9155.jpg" alt="USER RESEARCH" width="1600" height="1060" class="logo" /></a>
+</div>
+    <div class="w3-display-left w3-padding-large">
+      <h1 class="w3-text-white">Stephanie's</h1>
+      <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>USER RESEARCHER PORTFOLIO</b></h1>
+    </div>
+  </header>
+
+  <div class="w3-row w3-padding w3-border">
+    <div class="w3-col l8 s12">
+    
+       <div class="w3-container w3-white w3-margin w3-padding-large">
+         <div class="w3-center">
+           <h3>FOODBANK</h3>
+           <h5>Sign-Up Pages for App/Website <span class="w3-opacity">AUG 30, 2017</span></h5>
+<img src="logo.png" alt="Foodbank Logo" height="260" width="320">
+ <p><strong>Teamwork!</strong> Our group came together to design a new app & website that can help the community out by eliminating food waste. After testing prototypes and recieving feedback, we gained awareness in needfinding and key features necessary for Foodbank's success. Coding for our app and website was just one of the important steps in our design process. </p>
+           <p>My contributions of .html that allowed users to initially sign up/register to use our service was a stepping stone for the complete project. We are happy to be launching the tool for users soon!</p>
+  </div>
+  <div style="color:#A6CBFF">
+  <p><center>Charities, Food Providers and hungry individuals are all welcome into our Foodbank Community!</center></p>
+           <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+             <hr>
+               
+           </div>
+         </div>
+       </div>
+       <hr>
+
+      <div class="w3-container w3-white w3-margin w3-padding-large">
+         <div class="w3-center">
+         <div style="color:#46A1CC">
+           <h3>PROJECTS</h3>
+           </div>
+           <h5>An array of projects I have participated in<span class="w3-opacity">AUG 15, 2017</span></h5>
+         </div>
+           
+     
+       <div class="w3-container w3-white w3-margin w3-padding-large">
+         <div class="w3-center">
+           <h3>workingxxxx</h3>
+           <h5>working, <span class="w3-opacity">SEPT 1, 2017</span></h5>
+         </div>
+ 
+         <div class="w3-justify">
+           <img src="/w3images/ABOUT.jpg" alt="ABOUT" style="width:100%" class="w3-padding-16">
+           <p><strong>RESUMÉ</strong></p>
+           <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="link"><a href="PORTFOLIO/RESUME AUG 2017.pages"><button>Link</button></a></button></p>
+     </div>
+     
+    <div class="w3-col l4">
+       
+       
+       <div class="w3-white w3-margin">
+         <img src="/w3images/avatar_girl2.jpg" alt="WEB DESIGN PORTFOLIO" style="width:100%" class="w3-grayscale">
+         <div class="w3-container w3-black">
+          <h4>STEPHANIE RAMOS</h4>
+           <p> A Palm Springs, CA native living in Paradise; more known as San Diego City! Currently a Senior standing student at UCSD (University of California, San Diego). </p>
+         </div>
+       </div>
+       <hr>
+  
+  
+  <html>
+  <head>
+    <div style="color:#FFDA66">
+<h4>RESUMÉ</h4>
+  </head>
+  <body>
+    <div id="container">
+ <div style="color:#46A1CC">
+  <h3>COGS 187A</h3>
+  <p>Web Development course at UCSD.</p>
+</div>
+
+<div style="color:#46A1CC">
+  <h3>COGS 102C</h3>
+  <p>Cognitive Design Studio at UCSD.
+</div>
+
+<div style="color:#46A1CC">
+  <h3>Ableton Live 9 & 8</h3>
+</div>
+    </div>
+  </body>
+</html>
+  
+  
+  
+  
+ 
+ 
+ <html>
+  <head>
+    <div style="color:#FFDA66">
+<h4>CONTACT</h4>
+  </head>
+  <body>
+    <div id="container">
+ <div style="color:#46A1CC">
+  <h3>
+       <p> EMAIL: sjramos@ucsd.edu<p> PHONE: (760) 859-5339 </p>
+           </span>
+           </div>
+        </div>
+       </div>
+       <hr>
+
+    <div id="header">
+    FOLLOW ME
+    </div>
+    <a href="/"><img src="default-share.png" alt="LinkdIn" class="logo" /></a>
+    <div id="loginBox">
+       <a href=" https://www.linkedin.com/in/stephanie-ramos-920355a6"> </a>
+    </div>
+</div></h3>
+  <p>Web Development course at UCSD.</p>
+</div>
+</html>
+
+       </div>
+       <hr>
+     </div>
+   </div>
+ </div>
+
+ </body>
+ </html>
