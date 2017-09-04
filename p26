@@ -101,47 +101,20 @@ body {font-family: "Open Sans"}
   </header>
 </article>
  
- <div style="color:#0000FF">
+ <div style="color:#46A1CC">
   <h3>COGS 187A</h3>
   <p>Web Development course at UCSD.</p>
 </div>
 
-<div style="color:#0000FF">
+<div style="color:#46A1CC">
+  <h3>COGS 102C</h3>
+  <p>Cognitive Design Studio at UCSD.
+</div>
+
+<div style="color:#46A1CC">
   <h3>Ableton Live 9 & 8</h3>
 </div>
 
-<div style="color:#0000FF">
-  <h3>COGS 187A</h3>
-</div>
- 
- 
-           <li class="w3-padding-16">
-             <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-             <span class="w3-large">Cogs 187A</span>
-             <br>
-           <span>Web Development course at UCSD.</span>
-           </li>
-           <li class="w3-padding-16">
-             <img src="/w3images/bandmember.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-             <span class="w3-large">Ableton Live 9 & 8</span>
-             <br>
-             <span>working xxxx</span>
-           </li>
-           <li class="w3-padding-16">
-             <img src="/w3images/workshop.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-             <span class="w3-large">COGS 102C</span>
-             <br>
-            <span>wokring xxxx</span>
-          </li>
-           <li class="w3-padding-16">
-             <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right w3-sepia" style="width:50px">
-             <span class="w3-large">working xxxxx</span>
-             <br>
-            <span>working xxxx</span>
-           </li>
-         </ul>
-       </div>
-       <hr>
        
   <div style="color:#FFDA66">
   <html>
