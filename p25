@@ -142,18 +142,16 @@ body {font-family: "Open Sans"}
        </div>
        <hr>
 
-<div style="color:#FFDA66">
-  <html>
-  <head>
-    Follow Me
-  </head>
-  <body>
+
     <div id="container">
      https://www.linkedin.com/in/stephanie-ramos-920355a6
     </div>
-  </body>
-</html>
+    <a href="/"><img src="/img/logo.png" alt="Logo" class="logo" /></a>
+    <div id="loginBox">
+        other code
+    </div>
 </div>
+
      
        </div>
        <hr>
