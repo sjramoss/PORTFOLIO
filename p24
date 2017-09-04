@@ -26,7 +26,6 @@ body {font-family: "Open Sans"}
   
 
 <div id="header">
-    <img src="/img/headerBg.jpg" alt="" class="headerBg" />
     <a href="/"><img src="_O5A9155.jpg" alt="USER RESEARCH" width="1600" height="1060" class="logo" /></a>
 </div>
     <div class="w3-display-left w3-padding-large">
